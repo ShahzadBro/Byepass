@@ -1,1 +1,2 @@
-# Byepass
+# Bypass
+Bypass Paid Commands Free
